@@ -42,8 +42,7 @@ Recentemente concluí minha formação técnica em Informatica para Internet e e
 
 ### 📂 Projetos em Destaque
 
-1. **He**: .
-2. #### 🌐 Hemetec (Blog de História)
+2. #### Hemetec (Blog de História)
 * **Contexto:** Website completo desenvolvido para conclusão de uma atividade, e para entrega a um(a) cliente, porém cancelado por ele(ela). 
 * **O que eu fiz:** Fui responsável por grande parte do desenvolvimento do **Backend em PHP** cuidando de tratamentos, redirecionamentos, CRUD, confirmação de email com PHPMailer, etc.
 * **Status:** O projeto está disponível para consulta de código aqui no GitHub como parte do meu portfólio técnico.
