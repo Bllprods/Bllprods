@@ -1,7 +1,7 @@
 # Olá, eu sou o Bryan! 👋
 
 <p align="right">
-  <a href="README_EN.md">
+  <a href="Readme_En.md">
     <img src="https://img.shields.io/badge/English-EN-blue?style=for-the-badge&logo=github" alt="English">
   </a>
 </p>
