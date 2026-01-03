@@ -1,5 +1,11 @@
 # Olá, eu sou o Bryan! 👋
 
+<p align="right">
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/English-EN-blue?style=for-the-badge&logo=github" alt="English">
+  </a>
+</p>
+
 <p align="center">
   <strong>Desenvolvedor Junior | Recém-formado em Técnico de Informática</strong>
 </p>
