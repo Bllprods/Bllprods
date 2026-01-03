@@ -47,10 +47,13 @@ Recentemente concluí minha formação técnica em Informatica para Internet e e
 * **Contexto:** Website completo desenvolvido para conclusão de uma atividade, e para entrega a um(a) cliente, porém cancelado por ele(ela). 
 * **O que eu fiz:** Fui responsável por grande parte do desenvolvimento do **Backend em PHP** cuidando de tratamentos, redirecionamentos, CRUD, confirmação de email com PHPMailer, etc.
 * **Status:** O projeto está disponível para consulta de código aqui no GitHub como parte do meu portfólio técnico.
-* 👉 <a href="https://github.com/MatheusLima1234/LevelTracks">
+* 👉 <a href="https://github.com/MatheusLima1234/LevelTracks"> Hemetec </a>
 
-3. **TDMATH**: Aplicativo nativo em Java desenvolvido como trabalho de conclusão de curso no ano de 2025, Pensado para dar auxilio a crianças com TDAH no aprendizado de Matematica nos anos iniciais, utilizando a metodologia de gamificação para prender a atenção e disponibilizar um ensino divertido, com foco e carinho.
-
+3. **TDMATH**: 
+* **Contexto:** Aplicativo nativo em Java desenvolvido como trabalho de conclusão de curso no ano de 2025, Pensado para dar auxilio a crianças com TDAH no aprendizado de Matematica nos anos iniciais, utilizando a metodologia de gamificação para prender a atenção e disponibilizar um ensino divertido, com foco e carinho.
+* **O que eu fiz:** Fui responsável pelo desenvolvimento das funcionalidades no Java, e das telas em XML, incluindo a implementação dos Minijogos em JS nas WebViews.
+* **Status:** O projeto está disponível para consulta de código aqui no GitHub como parte do meu portfólio técnico, está em fase de polimento.
+* 👉 <a href="https://github.com/Bllprods/TDMATH-Final"> TDMATH </a>
 ---
 
 ### 📊 Meu GitHub
